@@ -78,9 +78,7 @@ Für die einzelnen Begegnungen werden Termine angesetzt, welche mit den Teilnehm
 und der Divisionsleitung vereinbart werden. Wenn die Divisionsleitung am Kampf selbst verwickelt ist
 wird ein Stellvertreter benannt.
 
-Es finden immer drei Kämpfe hintereinander statt. Sieger ist die Division, welche mindestens zwei
-davon für sich entschieden hat. Aus Zeitgründen kann auch mit Einvernehmen beider Seiten entschieden
-werden, dass auch ein oder zwei Kämpfe für die Wertung ausreichen.
+Es finden immer drei Kämpfe pro Begegnung statt. Punkte werden für alle Kämpfe einzeln vergeben.
 
 Falls beide Seiten gleichzeitig fallen, gilt das als Unentschieden und beide Seiten erhalten einen
 Punkt.
