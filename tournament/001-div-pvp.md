@@ -59,7 +59,7 @@ der stärkeren und schwären Seite ergeben folgende Regelanpassungen:
 Hier ist kurz die Punktetabelle zu sehen. Für die genauen Begegnungen schaut [hier](#Plan).
 
 | Rang | Division      | Spiele | Siege | Niederlagen | Punkte |
-|------|---------------|--------|-------|-------------|--------|
+|:----:|---------------|-------:|------:|------------:|-------:|
 |  -.  | Tempest       |      0 |     0 |           0 |      0 |
 |  -.  | KTM-Gang      |      0 |     0 |           0 |      0 |
 |  -.  | Niemand       |      0 |     0 |           0 |      0 |
@@ -81,7 +81,7 @@ Falls beide Seiten gleichzeitig fallen, gilt das als Unentschieden und beide Sei
 Punkt.
 
 |               | Tempest      | KTM-Gang     | Niemand      | Kerberos     | Nameless     | Alles auf Rot |
-|---------------|--------------|--------------|--------------|--------------|--------------|---------------|
+|---------------|:------------:|:------------:|:------------:|:------------:|:------------:|:-------------:|
 | Tempest       |              | [0:0](#t1-2) | [0:0](#t1-3) | [0:0](#t1-4) | [0:0](#t1-5) | [0:0](#t1-6)  |
 | KTM-Gang      | [0:0](#t2-1) |              | [0:0](#t2-3) | [0:0](#t2-4) | [0:0](#t2-5) | [0:0](#t2-6)  |
 | Niemand       | [0:0](#t3-1) | [0:0](#t3-2) |              | [0:0](#t3-4) | [0:0](#t3-5) | [0:0](#t3-6)  |
