@@ -23,13 +23,18 @@
 > Regeln können vor und auch während des Turniers geändert werden. Änderungen werden alle bekannt
 > gegeben. Es wird darauf geachtet, dass durch eine Regeländerung keine Nachteile entstehen.
 
+## Punkte
+
+Für jeden Sieg bekommt man zwei Punkte. Jedes Unentschieden gibt jeder Seite einen Punkt.
+Niederlagen geben keine Punkte.
+
 ## Kompetenzausgleich
 
 Da die Kompetenzen zwischen den Divisionen stark variiert gibt es folgende Regelung:
 
 Es wird vor Beginn des Kampfes die aktuelle durchschnittlicher Kompetenz aller Spieler auf beiden
 Seiten genommen und für die Division gemittelt (arithmetisches Mittel). Die Differenzen zwischen
-der stärkeren und schwären Seite ergeben folgende Regelanpassungen:
+der stärkeren und schwächeren Seite ergeben folgende Regelanpassungen:
 
 <table>
 <thead>
@@ -58,14 +63,14 @@ der stärkeren und schwären Seite ergeben folgende Regelanpassungen:
 
 Hier ist kurz die Punktetabelle zu sehen. Für die genauen Begegnungen schaut [hier](#Plan).
 
-| Rang | Division      | Spiele | Siege | Niederlagen | Punkte |
-|:----:|---------------|-------:|------:|------------:|-------:|
-|  -.  | Tempest       |      0 |     0 |           0 |      0 |
-|  -.  | KTM-Gang      |      0 |     0 |           0 |      0 |
-|  -.  | Niemand       |      0 |     0 |           0 |      0 |
-|  -.  | Kerberos      |      0 |     0 |           0 |      0 |
-|  -.  | Nameless      |      0 |     0 |           0 |      0 |
-|  -.  | Alles auf Rot |      0 |     0 |           0 |      0 |
+| Rang | Division      | Spiele | Siege | Niederlagen | Unentschieden | Punkte |
+|:----:|---------------|-------:|------:|------------:|--------------:|-------:|
+|  -.  | Tempest       |      0 |     0 |           0 |             0 |      0 |
+|  -.  | KTM-Gang      |      0 |     0 |           0 |             0 |      0 |
+|  -.  | Niemand       |      0 |     0 |           0 |             0 |      0 |
+|  -.  | Kerberos      |      0 |     0 |           0 |             0 |      0 |
+|  -.  | Nameless      |      0 |     0 |           0 |             0 |      0 |
+|  -.  | Alles auf Rot |      0 |     0 |           0 |             0 |      0 |
 
 ## Plan
 
