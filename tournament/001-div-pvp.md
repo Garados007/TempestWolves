@@ -114,7 +114,7 @@ Kompetenz: *offen* vs. *offen*
 Datum: *offen* \
 Kompetenz: *offen* vs. *offen*
 
-### <a name="t6-1"></a><a name="t1-6"> Alles auf Rot vs. Tempest
+### <a name="t6-1"></a><a name="t1-6"></a> Alles auf Rot vs. Tempest
 
 Datum: *offen* \
 Kompetenz: *offen* vs. *offen*
@@ -134,7 +134,7 @@ Kompetenz: *offen* vs. *offen*
 Datum: *offen* \
 Kompetenz: *offen* vs. *offen*
 
-### <a name="t6-2"></a><a name="t2-6"> Alles auf Rot vs. KTM-Gang
+### <a name="t6-2"></a><a name="t2-6"></a> Alles auf Rot vs. KTM-Gang
 
 Datum: *offen* \
 Kompetenz: *offen* vs. *offen*
@@ -149,7 +149,7 @@ Kompetenz: *offen* vs. *offen*
 Datum: *offen* \
 Kompetenz: *offen* vs. *offen*
 
-### <a name="t6-3"></a><a name="t3-6"> Alles auf Rot vs. Niemand
+### <a name="t6-3"></a><a name="t3-6"></a> Alles auf Rot vs. Niemand
 
 Datum: *offen* \
 Kompetenz: *offen* vs. *offen*
@@ -159,12 +159,12 @@ Kompetenz: *offen* vs. *offen*
 Datum: *offen* \
 Kompetenz: *offen* vs. *offen*
 
-### <a name="t6-4"></a><a name="t4-6"> Alles auf Rot vs. Kerberos
+### <a name="t6-4"></a><a name="t4-6"></a> Alles auf Rot vs. Kerberos
 
 Datum: *offen* \
 Kompetenz: *offen* vs. *offen*
 
-### <a name="t6-5"></a><a name="t5-6"> Alles auf Rot vs. Nameless
+### <a name="t6-5"></a><a name="t5-6"></a> Alles auf Rot vs. Nameless
 
 Datum: *offen* \
 Kompetenz: *offen* vs. *offen*
