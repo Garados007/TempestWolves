@@ -6,6 +6,11 @@
 
 1. Jede Division kämpft an vorher vereinbarten Zeiten auf dem festgelegten Gelände gegeneinander bis
     der letzte Spieler besiegt wurde.
+    - Das Gelände wird ein Fort sein. Das Betreten der unteren Bereiche ist erlaubt. Die oberen
+        Bereiche ist verboten.
+    - Alle starten in der Mitte im Kreis. Sobald "Duell" angenommen" steht, verlassen alle den Kreis
+        auf deren jeweiligen Seite. Der Kreis darf erst dann wieder betreten werden, wenn der
+        Countdown abgelaufen ist.
 2. Tränke, Buff-Food, Tinkturen und Schleifsteine sind erlaubt.
 3. Intervention von außen ist verboten.
 4. Streams und Zuschauer sind erlaubt.
