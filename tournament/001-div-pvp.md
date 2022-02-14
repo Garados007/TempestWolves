@@ -1,4 +1,4 @@
-# 1. Interne Divisions PVP Turnier
+# 1. Internes Divisions PVP Turnier
 
 > Disclaimer: Alle Bezeichnungen beziehen sich hier auf alle Geschlechter.
 
