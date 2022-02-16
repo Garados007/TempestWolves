@@ -18,7 +18,7 @@
     ersetzenden Spieler nicht verfügbar sind. Ein Ersatz nur um sich einen Vorteil zu holen ist
     nicht erlaubt. Der [Kompetenzausgleich](#Kompetenzausgleich) wird an die Ersatzspieler
     angepasst.
-6. Je nach Kompetenzunterschied gibt es Regelanpassungen (siehe
+6. Je nach Kompetenz- und Rüstungsunterschied gibt es Regelanpassungen (siehe
     [Kompetenzausgleich](#Kompetenzausgleich)).
 10. Folgende Situationen führen zur Disqualifikation und somit zum Sieg der anderen Seite:
     1. Das Verlassen des vorher festgelegten Bereiches.
@@ -35,11 +35,12 @@ Niederlagen geben keine Punkte.
 
 ## Kompetenzausgleich
 
-Da die Kompetenzen zwischen den Divisionen stark variiert gibt es folgende Regelung:
+Da die Kompetenzen und Rüstungswerte zwischen den Divisionen stark variiert gibt es folgende
+Regelung:
 
-Es wird vor Beginn des Kampfes die aktuelle durchschnittlicher Kompetenz aller Spieler auf beiden
-Seiten genommen und für die Division gemittelt (arithmetisches Mittel). Die Differenzen zwischen
-der stärkeren und schwächeren Seite ergeben folgende Regelanpassungen:
+Es wird vor Beginn des Kampfes der aktuelle Mittelwert aus Kompetenz und Rüstungswert aller
+Spieler auf beiden Seiten genommen und für die Division gemittelt (arithmetisches Mittel). Die
+Differenzen zwischen der stärkeren und schwächeren Seite ergeben folgende Regelanpassungen:
 
 <table>
 <thead>
