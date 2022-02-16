@@ -103,74 +103,239 @@ Punkt.
 ### <a name="t2-1"></a><a name="t1-2"></a> KTM-Gang vs. Tempest
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| KTM-Gang      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| Tempest       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t3-1"></a><a name="t1-3"></a> Niemand vs. Tempest
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Niemand       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| Tempest       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t4-1"></a><a name="t1-4"></a> Kerberos vs. Tempest
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Kerberos      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| Tempest       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t5-1"></a><a name="t1-5"></a> Nameless vs. Tempest
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Nameless      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| Tempest       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t6-1"></a><a name="t1-6"></a> Alles auf Rot vs. Tempest
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Alles auf Rot |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| Tempest       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t3-2"></a><a name="t2-3"></a> Niemand vs. KTM-Gang
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Niemand       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| KTM-Gang      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t4-2"></a><a name="t2-4"></a> Kerberos vs. KTM-Gang
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Kerberos      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| KTM-Gang      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t5-2"></a><a name="t2-5"></a> Nameless vs. KTM-Gang
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Nameless      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| KTM-Gang      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t6-2"></a><a name="t2-6"></a> Alles auf Rot vs. KTM-Gang
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Alles auf Rot |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| KTM-Gang      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t4-3"></a><a name="t3-4"></a> Kerberos vs. Niemand
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Kerberos      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| Niemand       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t5-3"></a><a name="t3-5"></a> Nameless vs. Niemand
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Nameless      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| Niemand       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t6-3"></a><a name="t3-6"></a> Alles auf Rot vs. Niemand
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Alles auf Rot |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| Niemand       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t5-4"></a><a name="t4-5"></a> Nameless vs. Kerberos
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Nameless      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| Kerberos      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t6-4"></a><a name="t4-6"></a> Alles auf Rot vs. Kerberos
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Alles auf Rot |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| Kerberos      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t6-5"></a><a name="t5-6"></a> Alles auf Rot vs. Nameless
 
 Datum: *offen* \
-Kompetenz: *offen* vs. *offen*
+Kompetenz: *offen* vs. *offen* \
+Ersatzspieler: *keine*
+
+| Alles auf Rot |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
+
+| Nameless      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
+|---------------|-----|-----|-----|-----|-----|-------|
+| Kompetenz     |     |     |     |     |     |       |
+| Rüstwert      |     |     |     |     |     |       |
