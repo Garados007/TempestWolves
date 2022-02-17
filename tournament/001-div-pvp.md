@@ -72,7 +72,6 @@ Hier ist kurz die Punktetabelle zu sehen. Für die genauen Begegnungen schaut [h
 | Rang | Division      | Spiele | Siege | Niederlagen | Unentschieden | Punkte |
 |:----:|---------------|-------:|------:|------------:|--------------:|-------:|
 |  -.  | Tempest       |      0 |     0 |           0 |             0 |      0 |
-|  -.  | KTM-Gang      |      0 |     0 |           0 |             0 |      0 |
 |  -.  | Niemand       |      0 |     0 |           0 |             0 |      0 |
 |  -.  | Kerberos      |      0 |     0 |           0 |             0 |      0 |
 |  -.  | Nameless      |      0 |     0 |           0 |             0 |      0 |
@@ -89,32 +88,15 @@ Es finden immer drei Kämpfe pro Begegnung statt. Punkte werden für alle Kämpf
 Falls beide Seiten gleichzeitig fallen, gilt das als Unentschieden und beide Seiten erhalten einen
 Punkt.
 
-|                   | Tempest      | KTM-Gang     | Niemand      | Kerberos     | Nameless     | Alles auf Rot |
-|-------------------|:------------:|:------------:|:------------:|:------------:|:------------:|:-------------:|
-| **Tempest**       |              | [0:0](#t1-2) | [0:0](#t1-3) | [0:0](#t1-4) | [0:0](#t1-5) | [0:0](#t1-6)  |
-| **KTM-Gang**      | [0:0](#t2-1) |              | [0:0](#t2-3) | [0:0](#t2-4) | [0:0](#t2-5) | [0:0](#t2-6)  |
-| **Niemand**       | [0:0](#t3-1) | [0:0](#t3-2) |              | [0:0](#t3-4) | [0:0](#t3-5) | [0:0](#t3-6)  |
-| **Kerberos**      | [0:0](#t4-1) | [0:0](#t4-2) | [0:0](#t4-3) |              | [0:0](#t4-5) | [0:0](#t4-6)  |
-| **Nameless**      | [0:0](#t5-1) | [0:0](#t5-2) | [0:0](#t5-3) | [0:0](#t5-4) |              | [0:0](#t5-6)  |
-| **Alles auf Rot** | [0:0](#t6-1) | [0:0](#t6-2) | [0:0](#t6-3) | [0:0](#t6-4) | [0:0](#t6-5) |               |
+|                   | Tempest      | Niemand      | Kerberos     | Nameless     | Alles auf Rot |
+|-------------------|:------------:|:------------:|:------------:|:------------:|:-------------:|
+| **Tempest**       |              | [0:0](#t1-3) | [0:0](#t1-4) | [0:0](#t1-5) | [0:0](#t1-6)  |
+| **Niemand**       | [0:0](#t3-1) |              | [0:0](#t3-4) | [0:0](#t3-5) | [0:0](#t3-6)  |
+| **Kerberos**      | [0:0](#t4-1) | [0:0](#t4-3) |              | [0:0](#t4-5) | [0:0](#t4-6)  |
+| **Nameless**      | [0:0](#t5-1) | [0:0](#t5-3) | [0:0](#t5-4) |              | [0:0](#t5-6)  |
+| **Alles auf Rot** | [0:0](#t6-1) | [0:0](#t6-3) | [0:0](#t6-4) | [0:0](#t6-5) |               |
 
 > Die Nummerierung erfolgt hier `Zeile`:`Spalte`.
-
-### <a name="t2-1"></a><a name="t1-2"></a> KTM-Gang vs. Tempest
-
-Datum: *offen* \
-Kompetenz: *offen* vs. *offen* \
-Ersatzspieler: *keine*
-
-| KTM-Gang      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
-|---------------|-----|-----|-----|-----|-----|-------|
-| Kompetenz     |     |     |     |     |     |       |
-| Rüstwert      |     |     |     |     |     |       |
-
-| Tempest       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
-|---------------|-----|-----|-----|-----|-----|-------|
-| Kompetenz     |     |     |     |     |     |       |
-| Rüstwert      |     |     |     |     |     |       |
 
 ### <a name="t3-1"></a><a name="t1-3"></a> Niemand vs. Tempest
 
@@ -176,70 +158,6 @@ Ersatzspieler: *keine*
 | Rüstwert      |     |     |     |     |     |       |
 
 | Tempest       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
-|---------------|-----|-----|-----|-----|-----|-------|
-| Kompetenz     |     |     |     |     |     |       |
-| Rüstwert      |     |     |     |     |     |       |
-
-### <a name="t3-2"></a><a name="t2-3"></a> Niemand vs. KTM-Gang
-
-Datum: *offen* \
-Kompetenz: *offen* vs. *offen* \
-Ersatzspieler: *keine*
-
-| Niemand       |  1  |  2  |  3  |  4  |  5  |   ⌀   |
-|---------------|-----|-----|-----|-----|-----|-------|
-| Kompetenz     |     |     |     |     |     |       |
-| Rüstwert      |     |     |     |     |     |       |
-
-| KTM-Gang      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
-|---------------|-----|-----|-----|-----|-----|-------|
-| Kompetenz     |     |     |     |     |     |       |
-| Rüstwert      |     |     |     |     |     |       |
-
-### <a name="t4-2"></a><a name="t2-4"></a> Kerberos vs. KTM-Gang
-
-Datum: *offen* \
-Kompetenz: *offen* vs. *offen* \
-Ersatzspieler: *keine*
-
-| Kerberos      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
-|---------------|-----|-----|-----|-----|-----|-------|
-| Kompetenz     |     |     |     |     |     |       |
-| Rüstwert      |     |     |     |     |     |       |
-
-| KTM-Gang      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
-|---------------|-----|-----|-----|-----|-----|-------|
-| Kompetenz     |     |     |     |     |     |       |
-| Rüstwert      |     |     |     |     |     |       |
-
-### <a name="t5-2"></a><a name="t2-5"></a> Nameless vs. KTM-Gang
-
-Datum: *offen* \
-Kompetenz: *offen* vs. *offen* \
-Ersatzspieler: *keine*
-
-| Nameless      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
-|---------------|-----|-----|-----|-----|-----|-------|
-| Kompetenz     |     |     |     |     |     |       |
-| Rüstwert      |     |     |     |     |     |       |
-
-| KTM-Gang      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
-|---------------|-----|-----|-----|-----|-----|-------|
-| Kompetenz     |     |     |     |     |     |       |
-| Rüstwert      |     |     |     |     |     |       |
-
-### <a name="t6-2"></a><a name="t2-6"></a> Alles auf Rot vs. KTM-Gang
-
-Datum: *offen* \
-Kompetenz: *offen* vs. *offen* \
-Ersatzspieler: *keine*
-
-| Alles auf Rot |  1  |  2  |  3  |  4  |  5  |   ⌀   |
-|---------------|-----|-----|-----|-----|-----|-------|
-| Kompetenz     |     |     |     |     |     |       |
-| Rüstwert      |     |     |     |     |     |       |
-
-| KTM-Gang      |  1  |  2  |  3  |  4  |  5  |   ⌀   |
 |---------------|-----|-----|-----|-----|-----|-------|
 | Kompetenz     |     |     |     |     |     |       |
 | Rüstwert      |     |     |     |     |     |       |
